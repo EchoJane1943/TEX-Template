@@ -9,4 +9,4 @@ TeXLive 2017```和 ```Ubuntu 16.04 + TeXLive 2017``` 平台上测试，在```mac
 
 
 ## 说明
-本模板基于华中师范大学模版修改，附其下载地址（https://github.com/K-JW/CCNU_BeamerTemplate/releases），作者使用平台为```mac os 10.15.1+mactex```。
+本模板基于华中师范大学模版修改，附其下载地址（https://github.com/K-JW/CCNU_BeamerTemplate/releases ） ，作者使用平台为```mac os 10.15.1+mactex```。本模板下载地址为https://github.com/EchoJane1943/TEX-Template
